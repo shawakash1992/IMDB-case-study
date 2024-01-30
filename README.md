@@ -11,3 +11,6 @@
 * Intel core i3
 * Ram 4Gb
 * https://github.com/shawakash1992/IMDB-case-study/blob/main/imdb%20table.xlsx
+
+## Insight:-
+
