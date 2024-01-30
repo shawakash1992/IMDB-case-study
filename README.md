@@ -1,1 +1,1 @@
-# IMDB-case-study
+# **IMDB-case-study**
