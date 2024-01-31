@@ -19,12 +19,12 @@
 * Using Excel and statistics formulas to solve the problems
 * Create visuals to gain insights from it.
 
-## Insight:-
+## Insights:-
 * From this data source we analyse :-
 * Generation of total revenue from a particular movie, movies for a desired languages by colourful graph and tabular approach.
-* we also analyse the movies ratings by average IMD score
-* drawing of pie chart for top movies
-* 
+* We also analyse the movies ratings by average IMD score
+* Drawing of pie chart for top movies
+* Report connection of different graphs with the variation of one particular genre.
 * 
 * 
 
