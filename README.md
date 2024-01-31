@@ -29,6 +29,6 @@
 * Filter the year and analyse the movies gross revenue with colour invisible bars
 * Analyze the correlation between movie budgets and gross revenues, and identify the movies with the highest profi margin.
 * Analyze the data with clusterd coulumn and bar approach.
-* 
+  # Different cases: https://github.com/shawakash1992/IMDB-case-study/blob/main/imdb%20table.xlsx    
 
-                                                   
+  
