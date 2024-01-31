@@ -1,5 +1,8 @@
 # **IMDB-case-study**
 
+                              ##![image](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/99f428ee-94da-40c9-abf7-5f73731c4be5)
+
+
 ## Objective:-
 * What is the specific business problem we are attempting to address and what is my goal?
 * What type of analysis am I seeking to conduct and for what reason?
