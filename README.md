@@ -34,7 +34,7 @@
 
 ## Conclusion:-  
           
-# In this project of IMDb Analysis, I have gained various Logical, graphical and TechnicalSkill for get desired answers from # the 
+# In this project of IMDb Analysis, I have gained various Logical, graphical and TechnicalSkill for get desired answers from the #
 #  dataset. I also get sum of  gross revenue,profit margin,best film rating and etc for business analysis  and Discovering pivot table 
 # and pivot analyzer concepts that help me better connect with data, offer me a thorough understanding outfit, and aid in the analytics 
 # of supplied data .My ability to apply  Microsoft Excel'pivot table and chart to analyse data. It speeds up data an  alytics tasks  #considerably. Simplifies difficult and time-consuming calculations. I also get a sense of how visual presentation of data sheet very 
