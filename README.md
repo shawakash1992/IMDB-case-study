@@ -32,4 +32,4 @@
   # Analyzation for different business cases:-  https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20PROJECT.docx
   # IMDb dashboard:-https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20akashdashboard%20github.xlsx
 
-  
+## Conclusion:-  
