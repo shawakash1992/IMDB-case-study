@@ -28,5 +28,9 @@
 * Which genre produced highest revenue.
 * Filter the year and analyse the movies gross revenue with colour invisible bars
 * Analyze the correlation between movie budgets and gross revenues, and identify the movies with the highest profi margin.
-* 
+* Analyze the data with clusterd coulumn and bar approach
+
+![image](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/9ce458fb-0756-4993-bc38-b5f1dc1e2f79)
+
+
 
