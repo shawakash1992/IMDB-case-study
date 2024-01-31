@@ -12,6 +12,10 @@
 * Ram 4Gb
 * https://github.com/shawakash1992/IMDB-case-study/blob/main/imdb%20table.xlsx
 
-## Insight:-
-
+## Approach:-
+* Download the dataset
+* Understand the data
+* Data cleaning – removing null and duplicate columns , deleting all the unnecessary columns, and removing special characters.
+* Using Excel and statistics formulas to solve the problems
+* Create visuals to gain insights from it.
 
