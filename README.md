@@ -30,6 +30,6 @@
 * Analyze the correlation between movie budgets and gross revenues, and identify the movies with the highest profi margin.
 * Analyze the data with clusterd coulumn and bar approach.
   # Analyzation for different business cases:-  https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20PROJECT.docx
-  # IMDb dashboard:-
+  # IMDb dashboard:-https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20akashdashboard%20github.xlsx
 
   
