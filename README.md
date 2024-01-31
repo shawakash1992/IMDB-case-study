@@ -39,5 +39,5 @@
 and pivot analyzer concepts that help me better connect with data, offer me a thorough understanding outfit, and aid in the analytics 
  of supplied data .My ability to apply  Microsoft Excel'pivot table and chart to analyse data. It speeds up data an  alytics tasks  considerably. Simplifies difficult and time-consuming calculations. I also get a sense of how visual presentation of data sheet very 
  simple to understand through its data visualisation functionality. I gain knowledge on when to utilise each visualisation by graph or
-  chart based on the data and  get desired results.#
+  chart based on the data and  get desired results.
 
