@@ -19,3 +19,9 @@
 * Using Excel and statistics formulas to solve the problems
 * Create visuals to gain insights from it.
 
+## Insight:-
+* From this data source we analyse
+* Generation of total revenue from a particular movie, movies with a desired languages by colourful graph as well
+* tabular approach
+* 
+
