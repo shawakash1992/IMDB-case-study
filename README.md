@@ -1,8 +1,9 @@
 # **IMDB-case-study:-
 
-[Doc1.docx](https://github.com/shawakash1992/IMDB-case-study/files/14114331/Doc1.docx)
 
-     
+
+     ![img1](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/9deda7c5-fb9e-4c11-a0fd-9de43d0f642e)
+
 
 
 
