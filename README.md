@@ -25,6 +25,8 @@
 * We also analyse the movies ratings by average IMD score
 * Drawing of pie chart for top movies
 * Report connection of different graphs with the variation of one particular genre.
+* Which genre produced highest revenue.
+* Filter the year and analyse the movies gross revenue with colour invisible bars
 * 
 * 
 
