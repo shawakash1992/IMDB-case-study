@@ -46,6 +46,31 @@
 * Analyze the data with clusterd coulumn and bar approach.
   # Analyzation of different business cases:- https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20PROJECT%20(1).docx 
   # IMDb dashboard:-https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20akashdashboard%20github.xlsx
+  
+
+  
+
+
+
+![WhatsApp Image 2024-01-31 at 21 56 37_957e52de](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/904358b8-b94a-4dff-a592-338bd36e884f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 ## Conclusion:-  
           
