@@ -1,8 +1,11 @@
 # **IMDB-case-study:-
 
+![img1](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/7e1ba6d0-ce32-412a-a997-081ae0e6734d)
 
 
-     ![img1](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/9deda7c5-fb9e-4c11-a0fd-9de43d0f642e)
+
+
+     
 
 
 
