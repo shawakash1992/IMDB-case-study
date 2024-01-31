@@ -33,4 +33,6 @@
   # IMDb dashboard:-https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20akashdashboard%20github.xlsx
 
 ## Conclusion:-  
+           '''
               In this project of IMDb Analysis, I have gained various Logical, graphical and TechnicalSkill for get desired answers from the dataset. I also get sum of  gross revenue,profit margin,best film rating and etc for business analysis  and Discovering pivot table and pivot analyzer concepts that help me better connect with data, offer me a thorough understanding outfit, and aid in the analytics of supplied data .My ability to apply  Microsoft Excel'pivot table and chart to analyse data. It speeds up data analytics tasks considerably. Simplifies difficult and time-consuming calculations. I also get a sense of how visual presentation of data sheet very simple to understand through its data visualisation functionality. I gain knowledge on when to utilise each visualisation by graph or chart based on the data and  get desired results.
+'''
