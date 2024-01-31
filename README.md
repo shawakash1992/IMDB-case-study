@@ -52,6 +52,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![WhatsApp Image 2024-01-31 at 21 56 37_957e52de](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/904358b8-b94a-4dff-a592-338bd36e884f)
 
 
