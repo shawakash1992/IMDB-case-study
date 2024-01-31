@@ -20,7 +20,7 @@
 * Create visuals to gain insights from it.
 
 ## Insights:-
-* From this data source we analyse :-
+#From this data source we analyse :-
 * Generation of total revenue from a particular movie, movies for a desired languages by colourful graph and tabular approach.
 * We also analyse the movies ratings by average IMD score
 * Drawing of pie chart for top movies
