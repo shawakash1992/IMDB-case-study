@@ -42,5 +42,5 @@ and pivot analyzer concepts that help me better connect with data, offer me a th
   chart based on the data and  get desired results.
 
 ## References:-
- * IMDb datasets from internt
+ * IMDb datasets from internet
  * Randrita Sarkar Mam
