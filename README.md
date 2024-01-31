@@ -1,6 +1,6 @@
 # **IMDB-case-study**
 
-                              ##https://github.com/shawakash1992/IMDB-case-study/blob/main/Doc1.docx
+                              https://github.com/shawakash1992/IMDB-case-study/blob/main/Doc1.docx
 
 
 ## Objective:-
