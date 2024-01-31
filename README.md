@@ -27,6 +27,6 @@
 * Report connection of different graphs with the variation of one particular genre.
 * Which genre produced highest revenue.
 * Filter the year and analyse the movies gross revenue with colour invisible bars
-* 
+* Analyze the correlation between movie budgets and gross revenues, and identify the movies with the highest profi margin.
 * 
 
