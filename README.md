@@ -100,8 +100,11 @@ ANS: PG- rated family films generated $ 445361439.
 QUES: What's the top grossing film released during that 4-year sample (2005, 2006,2007 or 2008)?
 
 ANS:The Dark Knight (2008) | $533316061
+
 Pirates of the Caribbean( 2006) | $423032628
+
 Star Wars: Episode III - Revenge of the Sith (2005) | $380262555
+
 Spider- Man 3 (2007) | $336530303
 
 ANS:
