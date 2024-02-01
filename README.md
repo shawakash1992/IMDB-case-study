@@ -50,6 +50,7 @@ QUEST 1:Create a view to show Titles by Country, excluding the USA,
 for the entire sample. Name the PivotTable "Titles by Country",
 then use a PivotChart to visualize this view as
 a Clustered Column Chart.
+
 ANS:
 
 ![6](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/e9bc4d79-e0e2-44d6-9e07-4c6d29376762)
