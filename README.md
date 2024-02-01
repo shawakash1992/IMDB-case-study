@@ -111,9 +111,9 @@ ANS:
 ![4](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/aefb7752-5cc9-47ba-ac6e-d88319fd4780)
 
 
+QUES: 
 
-
-
+ANS:
 
 
 
