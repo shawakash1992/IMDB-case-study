@@ -50,30 +50,32 @@ QUEST:	Create a view to show Titles by Country, excluding the USA,
 for the entire sample. Name the PivotTable "Titles by Country",
 then use a PivotChart to visualize this view as
 a Clustered Column Chart.
-Ans:![6](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/e9bc4d79-e0e2-44d6-9e07-4c6d29376762)
+ANS:![6](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/e9bc4d79-e0e2-44d6-9e07-4c6d29376762)
 
 QUEST:	Show the top 10 countries by Titles in Clustered Column format  ?.Which country is 2nd ?
 
 QUEST:Show the chart type to a Clustered Bar, and change the
 PivotTable sorting to ascending by of Titles?
 
-Ans:
+ANS:
 ![10](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/2527fdf8-4d0b-4169-a619-7d30827ad88f)
 
-QUEST:21.	Show the Budget by Genre, with a Top 5 filter applied. Name the table "Budget by Genre", then visualize this view with a Pie chart, with hidden field buttons?
+QUEST: Show the Budget by Genre, with a Top 5 filter applied. Name the table "Budget by Genre", then visualize this view with a Pie chart, with hidden field buttons?
 
 ANS:
 ![9](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/591992d1-9f7a-4b3e-a2cd-dda16ea01592)
 
-QUES:20.	Which of the 10 Countries   generated the lowest average IMDb scores?
+QUES: Which of the 10 Countries   generated the lowest average IMDb scores?
 
 ANS:
 ![3](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/aafbe840-f4a6-46e9-b693-67f13c22379d)
 
-QUEST:4.	Which Genre produced the most Gross Revenue, show in color scale?
+QUEST: Which Genre produced the most Gross Revenue, show in color scale?
 
-QUEST:5.	Which Genre produced the 2nd highest Gross Revenue total in the sample, make text invisible?
+QUEST: Which Genre produced the 2nd highest Gross Revenue total in the sample, make text invisible?
 
+ANS:
+![1](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/b015b909-95bb-45b4-a9b1-e3ce20c5c8e6)
 
 
 
