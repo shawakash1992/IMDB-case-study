@@ -44,6 +44,124 @@
 * Filter the year and analyse the movies gross revenue with colour invisible bars
 * Analyze the correlation between movie budgets and gross revenues, and identify the movies with the highest profi margin.
 * Analyze the data with clusterd coulumn and bar approach.
+
+
+QUEST.	Create a view to show Titles by Country, excluding the USA,
+for the entire sample. Name the PivotTable "Titles by Country",
+then use a PivotChart to visualize this view as
+a Clustered Column Chart.
+Ans:![6](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/e9bc4d79-e0e2-44d6-9e07-4c6d29376762)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   # Analyzation of different business cases:- https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20PROJECT%20(1).docx 
   # IMDb dashboard:-https://github.com/shawakash1992/IMDB-case-study/blob/main/IMDb%20akashdashboard%20github.xlsx
   
@@ -69,7 +187,7 @@
 
 
 
-![WhatsApp Image 2024-01-31 at 21 56 37_957e52de](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/904358b8-b94a-4dff-a592-338bd36e884f)
+
 
 
 
