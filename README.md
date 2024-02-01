@@ -65,6 +65,10 @@ QUEST:21.	Show the Budget by Genre, with a Top 5 filter applied. Name the table 
 ANS:
 ![9](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/591992d1-9f7a-4b3e-a2cd-dda16ea01592)
 
+QUES:20.	Which of the 10 Countries   generated the lowest average IMDb scores?
+
+ANS:
+![3](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/aafbe840-f4a6-46e9-b693-67f13c22379d)
 
 
 
