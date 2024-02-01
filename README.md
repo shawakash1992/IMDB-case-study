@@ -115,7 +115,7 @@ Star Wars: Episode III - Revenge of the Sith (2005) | $380262555
 
 Spider- Man 3 (2007) | $336530303
 
-ANS:
+
 ![4](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/aefb7752-5cc9-47ba-ac6e-d88319fd4780)
 
 
