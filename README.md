@@ -56,7 +56,8 @@ QUEST:	Show the top 10 countries by Titles in Clustered Column format  ?.Which c
 
 QUEST:Show the chart type to a Clustered Bar, and change the
 PivotTable sorting to ascending by of Titles?
-
+Ans:
+![10](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/2527fdf8-4d0b-4169-a619-7d30827ad88f)
 
 
 
