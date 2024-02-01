@@ -53,7 +53,8 @@ a Clustered Column Chart.
 Ans:![6](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/e9bc4d79-e0e2-44d6-9e07-4c6d29376762)
 
 QUEST:	Show the top 10 countries by Titles in Clustered Column format  ?.Which country is 2nd ?
-QUEST:19.	Show the chart type to a Clustered Bar, and change the
+
+QUEST:Show the chart type to a Clustered Bar, and change the
 PivotTable sorting to ascending by of Titles?
 
 
