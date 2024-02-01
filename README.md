@@ -70,7 +70,9 @@ QUES:20.	Which of the 10 Countries   generated the lowest average IMDb scores?
 ANS:
 ![3](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/aafbe840-f4a6-46e9-b693-67f13c22379d)
 
+QUEST:4.	Which Genre produced the most Gross Revenue, show in color scale?
 
+QUEST:5.	Which Genre produced the 2nd highest Gross Revenue total in the sample, make text invisible?
 
 
 
