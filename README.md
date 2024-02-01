@@ -60,7 +60,10 @@ PivotTable sorting to ascending by of Titles?
 Ans:
 ![10](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/2527fdf8-4d0b-4169-a619-7d30827ad88f)
 
+QUEST:21.	Show the Budget by Genre, with a Top 5 filter applied. Name the table "Budget by Genre", then visualize this view with a Pie chart, with hidden field buttons?
 
+ANS:
+![9](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/591992d1-9f7a-4b3e-a2cd-dda16ea01592)
 
 
 
