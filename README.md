@@ -57,8 +57,7 @@ QUEST2:Show the top 10 countries by Titles in Clustered Column format  ?.Which c
 QUEST 3:Show the chart type to a Clustered Bar, and change the
 PivotTable sorting to ascending by of T itles?
 
-ANS:
-![10](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/2527fdf8-4d0b-4169-a619-7d30827ad88f)
+ANS:![10](https://github.com/shawakash1992/IMDB-case-study/assets/157875263/2527fdf8-4d0b-4169-a619-7d30827ad88f)
 
 QUEST4: Show the Budget by Genre, with a Top 5 filter applied. Name the table "Budget by Genre", then visualize this view with a Pie chart, with hidden field buttons?
 
